@@ -1,0 +1,22 @@
+{
+  "name": "lab-cypress",
+  "version": "1.0.0",
+  "description": "Desarrollo en Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jocelynardon/Lab-Cypress.git"
+  },
+  "author": "Jocelyn",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Jocelynardon/Lab-Cypress/issues"
+  },
+  "homepage": "https://github.com/Jocelynardon/Lab-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^11.0.0"
+  }
+}
